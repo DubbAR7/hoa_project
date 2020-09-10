@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32812921339",
+    "firebase_url": "https://hoa-system.firebaseio.com",
+    "project_id": "hoa-system",
+    "storage_bucket": "hoa-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32812921339:android:844df605b879fb795d1b5e",
+        "android_client_info": {
+          "package_name": "com.dubbar7.hoa_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32812921339-sm3fhmk3052e9n93t46vlr5pmd0c2fc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dubbar7.hoa_project",
+            "certificate_hash": "6732b94f2d4b9a3a332159da21b357b557fd517c"
+          }
+        },
+        {
+          "client_id": "32812921339-ik9m8v7po8kv49v0ev1tu8butubcabif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUK3IIRPXclZUwn2iFoOJqk7vahNbvjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32812921339-ik9m8v7po8kv49v0ev1tu8butubcabif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
